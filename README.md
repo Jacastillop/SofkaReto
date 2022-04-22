@@ -13,7 +13,7 @@ la tabla answer
 5. Realizar el paso anterior para los archivos "questionchallenge_question.sql" y "questionchallenge_player.sql"
 6. NOTA:Si tu conexion a MySQL tiene una configuracion diferente , dirigete a la clase DBConexion y cambia los valores para:
 
-```
+```java
 USUARIO   ="root";
 String PASSWORD  ="1234";
 URL ="jdbc:mysql://localhost:3306/questionchallenge?useUnicode=true&characterEncoding=UTF-8";
